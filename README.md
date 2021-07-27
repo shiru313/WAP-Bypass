@@ -9,3 +9,4 @@
 - cd WAP-bayppas
 - bash boot.sh
 - [ type WITHOU conrty code your victum number ]
+- 👁️‍🗨️
